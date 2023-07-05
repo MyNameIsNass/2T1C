@@ -1,0 +1,113 @@
+{ "games":[
+      {
+          "language": "GB",
+          "type": "classic",
+          "group": "action",
+          "title": "ROCK, PAPER, SCISSORS",
+          "question": "First one to 2 points. Drink every time you lose.",
+          "number": 1,
+          "point": 2
+      },
+      {
+          "language": "GB",
+          "type": "classic",
+          "group": "guess",
+          "title": "GUESS WHAT",
+          "question": "How many mans involved in the world biggest gang bang, for 1 women ?",
+          "answer": "Annabbelle chong : 300 men, YES 300",
+          "number": 2,
+          "point": 3
+      },
+      {
+          "language": "GB",
+          "type": "classic",
+          "group": "guess",
+          "title": "WHO'S THE BEST",
+          "question": "Stand up on 1 leg, close your eyes, the one that stay the longer wins.",
+          "number": 2,
+          "point": 3
+      },
+      {
+          "language": "GB",
+          "type": "classic",
+          "group": "guess",
+          "title": "DO IT",
+          "question": "My sandiwch is composed of - (ie Bread, ham, cheese etc). One player from each team at the time.",
+          "number": 0,
+          "point": 3
+      },
+      {
+          "language": "GB",
+          "type": "special",
+          "group": "dare",
+          "title": "WOULD YOU DARE",
+          "question": "Do an action that you think that the other team will never do. Your team do it first if the other teams doesn't do it you win, if they do it you lose.",
+          "number": 0,
+          "point": 5
+      },
+      {
+          "language": "GB",
+          "type": "special",
+          "group": "dare",
+          "title": "WOULD YOU DARE",
+          "question": "Do a animal noise, if your team reconize the animal before the other one you win.",
+          "number": 0,
+          "point": 4
+      },
+      {
+          "language": "FR",
+          "type": "classic",
+          "group": "action",
+          "title": "PIERRE, FEUILLE, CISEAUX",
+          "question": "Le premier à 2 points. Boire à chaque fois qu'on perd.",
+          "number": 1,
+          "point": 2
+      },
+      {
+          "language": "FR",
+          "type": "classic",
+          "group": "guess",
+          "title": "DEVINEZ QUOI",
+          "question": "Combien d'hommes y a t'il eu dans le plus grand gang bang de l'histoire, pour une seule femme ?",
+          "answer": "Annabbelle chong : 300 hommes, OUI 300",
+          "number": 2,
+          "point": 3
+      },
+      {
+          "language": "FR",
+          "type": "classic",
+          "group": "guess",
+          "title": "QUI EST LE MEILLEUR",
+          "question": "Tenir debout sur une jambe, fermer les yeux, celui qui tient le plus longtemps gagne",
+          "number": 2,
+          "point": 3
+      },
+      {
+          "language": "FR",
+          "type": "classic",
+          "group": "guess",
+          "title": "FAITES LE",
+          "question": "Il y a dans mon Sandwich (ie pain, jalmbon, fromage etc.). Un joueur par équipe à la fois",
+          "number": 0,
+          "point": 3
+      },
+      {
+          "language": "FR",
+          "type": "special",
+          "group": "dare",
+          "title": "QUI OSERA",
+          "question": "Essayez de faire une action que l'autre équipe n'osera pas faire. Faites le en premier, si l'autre équipe ne fla fait pas vous avez gagné, sinon vous perdez.",
+          "number": 0,
+          "point": 5
+      },
+      {
+          "language": "FR",
+          "type": "special",
+          "group": "dare",
+          "title": "QUI OSERA",
+          "question": "Faites la bruit d'un animal, si votre équipe reconnais l'animal avant l'autre équipe vous gagnez.",
+          "number": 0,
+          "point": 4
+      }
+  ]
+}
